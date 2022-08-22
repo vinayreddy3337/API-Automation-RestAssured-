@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-22T15:39:31 PDT" name="Default suite" finished-at="2022-08-22T15:39:37 PDT" duration-ms="6160">
+    <groups>
+    </groups>
+    <test started-at="2022-08-22T15:39:31 PDT" name="Default test" finished-at="2022-08-22T15:39:37 PDT" duration-ms="6160">
+      <class name="APITestCases.PostDDT">
+        <test-method signature="testpostddt(java.lang.String,java.lang.String)[pri:0, instance:APITestCases.PostDDT@34f5090e]" started-at="2022-08-22T15:39:32 PDT" name="testpostddt" data-provider="postddt" finished-at="2022-08-22T15:39:35 PDT" duration-ms="3111" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[george]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[student]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpostddt -->
+        <test-method signature="testpostddt(java.lang.String,java.lang.String)[pri:0, instance:APITestCases.PostDDT@34f5090e]" started-at="2022-08-22T15:39:35 PDT" name="testpostddt" data-provider="postddt" finished-at="2022-08-22T15:39:36 PDT" duration-ms="583" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[alice]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[teacher]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpostddt -->
+        <test-method signature="testpostddt(java.lang.String,java.lang.String)[pri:0, instance:APITestCases.PostDDT@34f5090e]" started-at="2022-08-22T15:39:36 PDT" name="testpostddt" data-provider="postddt" finished-at="2022-08-22T15:39:36 PDT" duration-ms="449" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[joey]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[doctor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpostddt -->
+        <test-method signature="testpostddt(java.lang.String,java.lang.String)[pri:0, instance:APITestCases.PostDDT@34f5090e]" started-at="2022-08-22T15:39:36 PDT" name="testpostddt" data-provider="postddt" finished-at="2022-08-22T15:39:37 PDT" duration-ms="430" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[attorney]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpostddt -->
+        <test-method signature="testpostddt(java.lang.String,java.lang.String)[pri:0, instance:APITestCases.PostDDT@34f5090e]" started-at="2022-08-22T15:39:37 PDT" name="testpostddt" data-provider="postddt" finished-at="2022-08-22T15:39:37 PDT" duration-ms="435" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[john]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[business]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpostddt -->
+      </class> <!-- APITestCases.PostDDT -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
